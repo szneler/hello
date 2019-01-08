@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 
-cout<<"Hello World"<<endl;
+cout<<"Mariusz Szneler"<<endl;
 
 return 0;
 }
